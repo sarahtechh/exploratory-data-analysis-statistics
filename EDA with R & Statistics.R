@@ -10,7 +10,7 @@ nrow(melanoma)
 #Variance
 var(melanoma)
 
-#Melanoma - changing these as they are categories and it the summary does not make sense so it counts and sumaries them into categories 
+#Melanoma - changing these as they are categories and it the summary does not make sense so it counts and summarises them into categories 
 melanoma$sex=factor(melanoma$sex)
 melanoma$status=factor(melanoma$status)
 melanoma$ulcer=factor(melanoma$ulcer)
@@ -25,14 +25,14 @@ sd(melanoma$age)
 sd(melanoma$thickness)
 
 
-#Histograms 
+#Histograms to look at the spread of data
 par(mfrow=c(2,2))
 hist(melanoma$time,main="Days of Survival After Tumor Removal", xlab = "Days(time)", col ="blue")
 hist(melanoma$thickness,main= "Thickness of Tumor",xlab= "Thickness(mm)", col="blue")
 hist(melanoma$year, main = "Year of Surgery", xlab = "Year",col="blue")
 hist(melanoma$age, main= "Age of Patients", xlab = "Age",col="blue")
 
-#Box plots
+#Box plots to look at the spread of data
 par(mfrow=c(2,2))
 boxplot(melanoma$time ~ melanoma$sex,main="Sex by Time (Days Survived)", xlab ="sex", ylab="time")
 boxplot(melanoma$time ~ melanoma$ulcer,main ="Ulcer by Time (Days Survived)", xlab = "ulcer", ylab="time")
