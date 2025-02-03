@@ -1,11 +1,9 @@
 # Exploratory Data Analysis Project Using Statistics in R
 
 ## What Is The Report About? 
-This is an exploratory data analysis project submitted as University coursework where I worked with the 'survival of malignant melanoma' dataset. Each patient had their tumour removed by surgery at the Department of Plastic Surgery, University Hospital of Odense, Denmark during the period 1962 to 1977.
+This is an exploratory data analysis project submitted as University coursework where I worked with the 'survival of malignant melanoma' dataset. 208 patient had their tumour removed by surgery at the Department of Plastic Surgery, University Hospital of Odense, Denmark during the period 1962 to 1977.
 
 This report covers a data summary (graphical and numerical), regression analysis and correlation, hypothesis/significance testing, QQ plots and an insights/recommendation section. 
-
-There are 208 patients in this data set. You will find the melanoma dataset and my R Code in this repo. 
 
 Below you can see the contents of the report. **To read more sections of the report you can <a href="https://medium.com/@sarahtech/south-korea-travel-planning-chatbot-with-google-cloud-ab995e0a8c3c">CLICK HERE</a>**
 
