@@ -9,6 +9,11 @@ Below you can some contents of the report and the R code in this repo. **To read
 
 <img width="820" alt="Screenshot 2025-02-02 at 18 54 51" src="https://github.com/user-attachments/assets/f5fcb950-07b5-4d16-8f48-ab5cc06a866c" />
 
+
 <img width="822" alt="Screenshot 2025-02-02 at 17 27 46" src="https://github.com/user-attachments/assets/5248b946-b47e-495a-a8a9-f0f386515bda" />
+
+
+<img width="741" alt="Screenshot 2025-02-03 at 01 09 28" src="https://github.com/user-attachments/assets/8a735342-d3c2-4ac9-9c20-48e0b8c90b78" />
+<img width="740" alt="Screenshot 2025-02-03 at 01 09 35" src="https://github.com/user-attachments/assets/01db9ad4-40b7-484a-aac5-055c3e2b845c" />
 
 
